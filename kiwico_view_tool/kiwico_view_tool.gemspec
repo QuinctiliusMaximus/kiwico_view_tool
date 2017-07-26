@@ -6,8 +6,8 @@ require 'kiwico_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "kiwico_view_tool"
   spec.version       = KiwicoViewTool::VERSION
-  spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.authors       = ["Quinctilius Maximus"]
+  spec.email         = ["quintentwood@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use every now and then.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
